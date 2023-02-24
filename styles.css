@@ -1,0 +1,8 @@
+background{
+    color: black;
+}
+h1{
+    color: aqua;
+    text-transform: capitalize;
+    margin-left: 20px;
+}
