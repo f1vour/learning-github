@@ -7,4 +7,6 @@ This repository is built step by step in the tutorial.
 
 it now include steps for Github.
 
-creating a new branch to push to github.
+creating a new branch to push in github.
+
+learning how to git amend.
